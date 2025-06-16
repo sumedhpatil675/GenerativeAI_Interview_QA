@@ -44,7 +44,7 @@ Popular LLMs include GPT-4 and GPT-3.5 from OpenAI, which excel at conversationa
 
 These models represent a significant leap in AI capabilities, showing emergent abilities like few-shot learning, reasoning, and creative problem-solving that weren't explicitly programmed but emerged from scale and training.
 
-**5. What does "training" mean in the context of generative AI?**
+**5. What does "training" mean in the context of generative AI?** ✅
 
 Training in generative AI refers to the process of teaching a model to learn patterns from data so it can generate new, similar content. During training, the model examines millions or billions of examples and adjusts its internal parameters to better capture the underlying patterns and relationships in the data.
 
